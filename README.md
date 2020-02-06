@@ -1,2 +1,2 @@
 # PythonTutorial
-Revised With Updates Every 2 Days
+Revised | Updates Every 2 Days | More Often During Holidays, etc.
