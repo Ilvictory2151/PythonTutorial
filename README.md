@@ -1,2 +1,2 @@
 # PythonTutorial
-Revised
+Revised With Updates Every 2 Days
